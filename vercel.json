@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/api/:match*",
-      "destination": "https://api.lovefurina.cn:26710/:match*"
+      "destination": "https://neteaseapi.gksm.store/:match*"
     }
   ]
 }
